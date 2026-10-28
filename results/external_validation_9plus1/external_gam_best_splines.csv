@@ -1,0 +1,15 @@
+Task,Term,Best_n_splines
+Regression,pred_log10Kd_ACE2,7
+Regression,binding_retained,8
+Regression,spike_entry_score,8
+Regression,SDI,7
+Regression,pred_log10Kd_ACE2:SDI,7
+Regression,binding_retained:SDI,8
+Regression,spike_entry_score:SDI,8
+Classification,pred_log10Kd_ACE2,7
+Classification,binding_retained,8
+Classification,spike_entry_score,8
+Classification,SDI,8
+Classification,pred_log10Kd_ACE2:SDI,8
+Classification,binding_retained:SDI,8
+Classification,spike_entry_score:SDI,8

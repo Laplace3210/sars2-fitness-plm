@@ -1,0 +1,14 @@
+Country,Role,n,High-fitness n,High-fitness %,R mean,R SD,R min,R max
+Denmark,External validation,357,288,80.7,80.86,31.61,10.67,192.23
+Japan,External validation,284,18,6.3,39.66,16.95,10.01,160.6
+Nepal,External validation,36,16,44.4,65.49,41.27,13.21,189.46
+Mexico,External validation,240,147,61.3,71.93,32.25,10.09,187.32
+Bangladesh,Training,35,15,42.9,65.03,51.04,11.39,172.2
+Brazil,Training,176,86,48.9,64.77,29.64,10.11,186.47
+Cambodia,Training,60,17,28.3,49.32,24.66,10.15,110.2
+Germany,Training,371,235,63.3,67.74,24.04,11.4,176.04
+India,Training,199,98,49.2,63.16,37.87,10.84,165.76
+Senegal,Training,37,6,16.2,45.67,27.21,16.1,145.97
+Turkey,Training,193,177,91.7,97.41,26.02,43.79,158.32
+UK,Training,360,312,86.7,102.07,32.48,11.35,181.71
+USA,Training,428,358,83.6,80.61,28.57,10.25,148.51
