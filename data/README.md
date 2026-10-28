@@ -11,11 +11,7 @@ database (<https://gisaid.org>) for strains collected between **1 November 2021 
 30 November 2022**.
 
 GISAID's terms of use prohibit redistribution, so **no sequence or metadata file from
-GISAID appears in this repository**, and `.gitignore` blocks them by pattern. The exact
-set of records analysed is identified by:
-
-> **GISAID EPI_SET identifier:** `FILL IN`
-> **DOI:** `FILL IN`
+GISAID appears in this repository**.
 
 Anyone with a free GISAID account can retrieve precisely these records from that
 identifier. We gratefully acknowledge all originating and submitting laboratories; the
