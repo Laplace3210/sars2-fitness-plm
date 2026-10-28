@@ -124,7 +124,7 @@ scripts are R.
 | Tool | Version |
 |---|---|
 | Python | 3.x |
-| PyTorch | *fill in* |
+| PyTorch | 2.7.0 |
 | fair-esm (ESM-1v, `esm1v_t33_650M_UR90S_1`) | --- |
 | scikit-learn / XGBoost / LightGBM / CatBoost / pyGAM | see `requirements.txt` |
 | R | 4.x |
