@@ -1,0 +1,58 @@
+# ============================================================
+# Sequence data that MUST NOT be redistributed
+# ------------------------------------------------------------
+# GISAID's terms of use prohibit redistribution of sequences and
+# metadata. Nothing below may ever be committed. Share the data
+# through a GISAID EPI_SET identifier instead (see data/README.md).
+# ============================================================
+*.fasta
+*.fa
+*.fas
+*.fastq
+*_metadata.csv
+seq_data/
+seq_data_nextstrain_style/
+data/external/gisaid/
+data/raw/
+
+# Large intermediate files (regenerate with the scripts)
+merged_with_binding_retained_updated.csv
+*.zip
+*.rar
+*.7z
+
+# Large embeddings and prediction tables (regenerate with the scripts)
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.npy
+*.npz
+
+# ...but the trained network weights are small (~340 KB each) and belong in
+# the repository, so they are exempted from the rule above.
+!code/02_dnn_ace2/weights/*.pt
+
+# Training artefacts
+catboost_info/
+lightgbm_info/
+*.log
+
+# Manuscript working files
+Manuscript/
+*.docx
+*.pptx
+~$*
+*.xlsx
+
+# R / Python junk
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
