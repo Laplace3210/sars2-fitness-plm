@@ -1,0 +1,16 @@
+# Python dependencies for the fitness-prediction analyses.
+# Pin these to the versions actually used before submission:
+#   pip freeze > requirements-lock.txt
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+catboost
+pygam
+matplotlib
+torch
+fair-esm
+python-docx
+openpyxl

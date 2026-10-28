@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Protein language model-derived ACE2 binding with immune escape improves the prediction of cross-country SARS-CoV-2 fitness"
+authors:
+  - family-names: Ding
+    given-names: Zhaojun
+  - family-names: Liang
+    given-names: Hongsen
+  - family-names: Wang
+    given-names: Ruixuan
+  - family-names: Gu
+    given-names: Haogao
+  - family-names: Du
+    given-names: Xiangjun
+  - family-names: Poon
+    given-names: Leo L. M.
+  - family-names: Volz
+    given-names: Erik
+  - family-names: Yuan
+    given-names: Hsiang-Yu
+    email: sean.yuan@cityu.edu.hk
+year: 2026
+license: MIT
