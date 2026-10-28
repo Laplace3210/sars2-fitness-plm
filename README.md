@@ -72,7 +72,7 @@ available at <https://github.com/Dianzhuo-Wang/COVID19-Biophysical-Model>; that 
 not duplicated here. `code/01_data_prep/` restricts the combinatorial dataset to variants
 carrying 1–5 mutations (4,923 measurements), and `code/02_dnn_ace2/` trains the four
 architectures on a 75% / 25% split. The MLP — `RegressionNet(1280, 64, 32)` in
-`MLP_code.py` — performed best (Pearson r = 0.84) and its predictions are used
+`MLP_code.py` — performed best (Pearson ρ = 0.84) and its predictions are used
 downstream; trained weights are in `code/02_dnn_ace2/weights/`.
 
 **2. Viral traits** (`code/03_traits/`)
