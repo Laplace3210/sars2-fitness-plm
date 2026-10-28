@@ -128,7 +128,7 @@ scripts are R.
 | fair-esm (ESM-1v, `esm1v_t33_650M_UR90S_1`) | --- |
 | scikit-learn / XGBoost / LightGBM / CatBoost / pyGAM | see `requirements.txt` |
 | R | 4.x |
-| Clustal Omega | *fill in* |
+| Clustal Omega | 1.2.4 |
 | Nextstrain Augur | v33.4.0 |
 | MAFFT | v7.490 |
 | IQ-TREE 2 | v2.0.7 |
