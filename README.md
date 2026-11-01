@@ -93,7 +93,7 @@ merge the socio-demographic index.
 
 | Script | Country set | Writes to |
 |---|---|---|
-| `..._with_ci_sens1.py` | **13** — the main analysis, including China | `results/main_analysis/` |
+| `..._with_ci_sens1.py` | **13** — the main sensitivity analysis, including China | `results/main_analysis/` |
 | `..._with_ci.py` | 12 — the main set without China | `results/sensitivity1/` |
 | `..._with_ci_sens2.py` | 14 — plus Denmark and Japan | `results/sensitivity2/` |
 | `..._with_ci_sens3.py` | 13 — with Nepal in place of China | `results/sensitivity3/` |
